@@ -17,7 +17,7 @@ Output the result.
 
 Description:
 
-      TAP is a old problem that has been solved by many of other researchers. Anyway, the cities in this program are not real cities. I just denoted them as numbers with cost functions to get their distances. You can change the cities and the cost functions to real if you want to do some real world searching.
+      TSP is a old problem that has been solved by many of other researchers. Anyway, the cities in this program are not real cities. I just denoted them as numbers with cost functions to get their distances. You can change the cities and the cost functions to real if you want to do some real world searching.
 
 
 
